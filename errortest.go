@@ -10,6 +10,7 @@ func exampleNewprintf() {
 	err := errors.New("whoops")
 	fmt.Printf("%+v", err)
 	fmt.Printf("Hello")
+	fmt.Printf("Hello")
 
 	// Example output:
 	// whoops
